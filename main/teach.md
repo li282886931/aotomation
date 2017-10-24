@@ -1,8 +1,3 @@
-[TOC]
-
-## 传智播客python学科
-
-    http://www.itcast.cn/subject/pythonzly/index.shtml
     
 ### pexpect
 
